@@ -14,7 +14,9 @@ namespace Esquema_DNVT
         public string Modelo { get; set; }
         public int AñoFabricacion { get; set; }
         public string NumeroSerie { get; set; }
-        public int velocidadActual { get; set; }
+
+        public double Tanque_Gasolina { get; set; }
+      
 
         public virtual string Conducir()
         {
