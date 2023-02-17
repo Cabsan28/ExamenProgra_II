@@ -1,0 +1,30 @@
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\bin\Debug\net7.0\Esquema_DNVT.exe
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\bin\Debug\net7.0\Esquema_DNVT.deps.json
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\bin\Debug\net7.0\Esquema_DNVT.runtimeconfig.json
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\bin\Debug\net7.0\Esquema_DNVT.dll
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\bin\Debug\net7.0\Esquema_DNVT.pdb
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.dll
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\obj\Debug\net7.0\refint\Esquema_DNVT.dll
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.pdb
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C# Course\Vehiculos_DNVT\obj\Debug\net7.0\ref\Esquema_DNVT.dll
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\bin\Debug\net7.0\Esquema_DNVT.exe
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\bin\Debug\net7.0\Esquema_DNVT.deps.json
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\bin\Debug\net7.0\Esquema_DNVT.runtimeconfig.json
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\bin\Debug\net7.0\Esquema_DNVT.dll
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\bin\Debug\net7.0\Esquema_DNVT.pdb
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.AssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.dll
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\obj\Debug\net7.0\refint\Esquema_DNVT.dll
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.pdb
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\obj\Debug\net7.0\Esquema_DNVT.genruntimeconfig.cache
+C:\Users\DELL\Documents\GitHub\ExamenProgra_II\Vehiculos_DNVT\obj\Debug\net7.0\ref\Esquema_DNVT.dll
